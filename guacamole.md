@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
-## Instruction
-
 *avogadro
 *lime
 *salt
+## Instruction
+* Peel the avogadro
