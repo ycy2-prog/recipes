@@ -3,5 +3,5 @@
 ## Instruction
 
 *avogadro
-*lemon
+*lime
 *salt
